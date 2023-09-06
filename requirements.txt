@@ -2,3 +2,4 @@ pyaudio
 pydub
 aiohttp
 openai
+aioprocessing
